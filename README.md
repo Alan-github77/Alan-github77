@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Alan-github77
-- 👀 I’m interested in dancing， music and coding of course
-- 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...a759259661@gmail.com
+This is a project about simulating a basic CPU with pipeline
 
 <!---
 Alan-github77/Alan-github77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
