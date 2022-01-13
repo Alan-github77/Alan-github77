@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alan-github77
-- 👀 I’m interested in dancing and music and coding of course
+- 👀 I’m interested in dancing， music and coding of course
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...a759259661@gmail.com
